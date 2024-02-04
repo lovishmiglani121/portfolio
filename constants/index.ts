@@ -62,7 +62,7 @@ export const Skill_data = [
     },
     {
       skill_name: "tensorflow",
-      Image: "/tf.png",
+      Image: "/tensorflow.png",
       width: 80,
       height: 80,
     },
